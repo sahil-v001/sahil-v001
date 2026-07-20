@@ -79,7 +79,7 @@ I am a B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in Machine Lea
       <tr>
         <td align="left">📱 <b>Social Media App</b></td>
         <td align="left">Backend system with authentication, posts & APIs.</td>
-        <td align="left">FastAPI, MongoDB</td>
+        <td align="left">FastAPI,PostgreSQL</td>
       </tr>
     </tbody>
   </table>
