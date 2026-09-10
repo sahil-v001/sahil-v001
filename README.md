@@ -66,17 +66,17 @@ B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in **Backend Engineer
     </thead>
     <tbody>
       <tr>
-        <td align="left">🪨 <b>GRANITE</b></td>
+        <td align="left">🪨&nbsp;<b>GRANITE</b></td>
         <td align="left">Distributed LSM-tree database with WAL, crash recovery, SSTables, compaction & Raft replication.</td>
         <td align="left">Go, gRPC, Protobuf, PostgreSQL, Docker, Kubernetes</td>
       </tr>
       <tr>
-        <td align="left">🎓 <b>AlumniConnect</b></td>
+        <td align="left">🎓&nbsp;<b>AlumniConnect</b></td>
         <td align="left">Full-stack alumni platform for networking & management.</td>
         <td align="left">React, Node.js, MongoDB</td>
       </tr>
       <tr>
-        <td align="left">📱 <b>Social Media App</b></td>
+        <td align="left">📱&nbsp;<b>Social&nbsp;Media&nbsp;App</b></td>
         <td align="left">Backend system with authentication, posts & APIs.</td>
         <td align="left">FastAPI, PostgreSQL, Docker</td>
       </tr>
