@@ -23,35 +23,34 @@ B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in **Backend Engineer
   <table>
     <thead>
       <tr>
-        <th align="center">Frontend</th>
-        <th align="center">Backend</th>
-        <th align="center">Database</th>
+        <th align="center">Systems & Backend</th>
+        <th align="center">Databases</th>
         <th align="center">Languages</th>
+        <th align="center">DevOps & Tools</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
         <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
         <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></td>
       </tr>
     </tbody>
   </table>
 </div>
-
 ---
 
 ### 🎯 Featured Projects
@@ -67,19 +66,19 @@ B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in **Backend Engineer
     </thead>
     <tbody>
       <tr>
-        <td align="left">🌿 <b>Leaf Disease Detection</b></td>
-        <td align="left">ML model trained on 40K+ images for plant disease classification.</td>
-        <td align="left">Python, CNN</td>
+        <td align="left">🪨 <b>GRANITE</b></td>
+        <td align="left">Distributed LSM-tree database with WAL, crash recovery, SSTables, compaction & Raft replication.</td>
+        <td align="left">Go, gRPC, Protobuf, PostgreSQL, Docker, Kubernetes</td>
       </tr>
       <tr>
         <td align="left">🎓 <b>AlumniConnect</b></td>
         <td align="left">Full-stack alumni platform for networking & management.</td>
-        <td align="left">React, Node.js</td>
+        <td align="left">React, Node.js, MongoDB</td>
       </tr>
       <tr>
         <td align="left">📱 <b>Social Media App</b></td>
         <td align="left">Backend system with authentication, posts & APIs.</td>
-        <td align="left">FastAPI,PostgreSQL</td>
+        <td align="left">FastAPI, PostgreSQL, Docker</td>
       </tr>
     </tbody>
   </table>
