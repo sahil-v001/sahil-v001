@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-I am a B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in Machine Learning and Full Stack Development. I am passionate about building real-world scalable applications.
+B.Tech + M.Tech Student at **IIITM Gwalior**. I specialize in **Backend Engineering & Systems**. Passionate about building scalable, reliable, and real-world software systems.
 
-* 🔭 I'm currently working on **Leaf Disease Detection** & **AlumniConnect**.
-* 🌱 I'm currently learning **Deep Learning** & **Backend Systems**.
+* 🔭 Building **GRANITE** & **AlumniConnect**.
+* 🌱 Exploring **Data Intensive Applications**, **Backend Systems** & **System Design**.
 
 ---
 
