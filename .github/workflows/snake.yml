@@ -13,11 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake (light)
         uses: Platane/snk@v3
         with:
           github_user_name: sahil-v001
           outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Generate snake (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sahil-v001
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
