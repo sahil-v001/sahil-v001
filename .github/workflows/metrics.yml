@@ -1,0 +1,35 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          template: classic
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_layout: compact
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

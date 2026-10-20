@@ -1,326 +1,365 @@
+<!-- ================================================ -->
+<!--  SAHIL VERMA — VISUAL-FIRST ANIMATED PROFILE   -->
+<!-- ================================================ -->
+
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- ▸▸▸ ANIMATED HEADER ▸▸▸ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1b27,60:6c3ce0,100:00d4aa&height=300&section=header&text=SAHIL%20VERMA&fontSize=90&fontColor=ffffff&animation=twinkling&stroke=00d4aa&strokeWidth=2" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:00d4aa&height=300&section=header&text=SAHIL%20VERMA&fontSize=80&fontColor=ffffff&animation=twinkling&stroke=00d4aa&strokeWidth=1&desc=&descSize=1" width="100%" />
-
-<br/>
-
-<!-- Minimal animated subtitle -->
+<!-- ▸▸▸ ANIMATED TYPING ▸▸▸ -->
 <a href="https://github.com/sahil-v001">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=00D4AA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=building+systems+that+scale+%E2%9A%A1;ml+researcher+%7C+full-stack+engineer;open-source+%40+kde+%7C+knight+%40+leetcode;from+idea+to+deployment+%E2%80%94+i+ship." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=600&color=00D4AA&center=true&vCenter=true&repeat=true&width=750&height=50&lines=%E2%9A%A1+Full-Stack+Engineer+%7C+ML+Researcher;%F0%9F%8F%B0+IIITM+Gwalior+%7C+B.Tech+%2B+M.Tech;%E2%9A%94%EF%B8%8F+Knight+%40+LeetCode+(1867);%F0%9F%94%AC+99.5%25+Accuracy+%7C+0.345M+Params;%F0%9F%8C%8D+Open+Source+%40+KDE+Community" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Minimal social row — icons only, clean -->
-<a href="https://in.linkedin.com/in/sahil-verma-57993b273"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/></a>&nbsp;&nbsp;
-<a href="mailto:sahilvermatokyo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/sahilverma01/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="25"/></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Sahil_Verma_01"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="25"/></a>&nbsp;&nbsp;
-<a href="https://github.com/sahil-v001"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/></a>
+<!-- ▸▸▸ SOCIAL ICONS — ANIMATED ON HOVER ▸▸▸ -->
+<a href="https://in.linkedin.com/in/sahil-verma-57993b273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sahilvermatokyo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sahilverma01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Sahil_Verma_01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://github.com/sahil-v001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahil-v001&color=00d4aa&style=flat-square&label=visitors" height="20"/>
+<img src="https://komarev.com/ghpvc/?username=sahil-v001&color=00d4aa&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
+
+<!-- ▸▸▸ ANIMATED WAVE DIVIDER ▸▸▸ -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              ABOUT — VISUAL CARD            -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+whoami" />
 
 </div>
 
 <br/>
 
-<!-- ==================== ABOUT ==================== -->
-
+<div align="center">
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center">
 
-### `> whoami`
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV3OHVqOG83d25peTRtd2o4Zm50bjQ0aDEzMXBtNjhhMnlqY2t4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
-```js
-const sahil = {
-    pronouns: "he" | "him",
-    location: "IIITM Gwalior, India",
-    degree: "B.Tech + M.Tech in IT (2023–2028)",
-    
-    roles: [
-        "Full-Stack Engineer",
-        "ML Researcher",
-        "Open-Source Developer"
-    ],
-    
-    currentWork: {
-        research: "Leaf Disease Detection — 99.5% acc, 0.345M params",
-        building: "AlumniConnect — 50+ active users",
-        exploring: "RAG · LLMs · Vision Transformers · SSMs"
-    },
-    
-    openSource: {
-        org: "KDE Community",
-        project: "Kate Text Editor",
-        impact: "6 merged MRs · 400+ lines shipped"
-    },
-    
-    competitive: {
-        leetcode: "Knight ⚔️ (1867)",
-        solved: "600+ problems"
-    }
-};
+</td>
+<td>
+
+```yaml
+🎓  IIITM Gwalior — B.Tech + M.Tech (2023-2028)
+🔬  ML Research → 99.5% accuracy, Swin Transformer + SSM
+🌐  Full-Stack → React, FastAPI, Node.js, Docker
+🐧  Open Source → KDE Kate Editor (6 merged MRs)
+⚔️  LeetCode Knight (1867) → 600+ problems solved
+📈  YouTube → Stock market education
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahil-v001&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=00d4aa" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-v001&hide_border=true&background=00000000&ring=00d4aa&fire=ff6e40&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00000000" width="100%" />
-
-</td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ==================== TECH STACK ==================== -->
-
-<div align="center">
-
-### `⚡ tech stack`
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,react,vite,tailwind,nodejs,express,fastapi&perline=9" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,mysql,docker,kubernetes,linux,nginx&perline=9" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,qt,vscode&perline=6" />
-</a>
-
-<br/><br/>
-
 </div>
 
-<!-- ==================== EXPERIENCE ==================== -->
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              TECH STACK — ICONS ONLY        -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-### `💼 experience`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%E2%9A%A1+tech+arsenal" />
+
+<br/><br/>
+
+<!-- Row 1: Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" height="55" />
+
+<br/><br/>
+
+<!-- Row 2: Frontend -->
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" height="55" />
+
+<br/><br/>
+
+<!-- Row 3: Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,qt&theme=dark" height="55" />
+
+<br/><br/>
+
+<!-- Row 4: Data & AI -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,mysql&theme=dark" height="55" />
+
+<br/><br/>
+
+<!-- Row 5: DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,gitlab,postman,vscode&theme=dark" height="55" />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td>
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg" width="22" />
-  &nbsp;KDE Community &nbsp;·&nbsp; <sub>Part-Time Software Developer</sub>
-</h3>
-
-> **Kate Text Editor** &nbsp;|&nbsp; Qt/C++ &nbsp;|&nbsp; `Dec 2025 – Feb 2026`
-
-<a href="https://invent.kde.org/utilities/kate/-/merge_requests/?sort=created_date&state=all&author_username=sahilvermaiiitmg&first_page_size=20"><img src="https://img.shields.io/badge/view_merge_requests-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
-
-- Rewrote the **Template Plugin** — added import, export, and delete from local directories
-- Refactored categories into a **hierarchical tree structure** with improved keyboard navigation
-- Shipped **400+ lines** of production C++, reviewed **600+ lines**, merged **6 MRs**
-- Designed the architecture for an **AI-powered template generation** feature
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ==================== PROJECTS ==================== -->
+<!-- ═══════════════════════════════════════════ -->
+<!--              EXPERIENCE — VISUAL            -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-### `🔮 featured projects`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%F0%9F%92%BC+experience" />
+
+<br/><br/>
+
+<a href="https://invent.kde.org/utilities/kate/-/merge_requests/?sort=created_date&state=all&author_username=sahilvermaiiitmg&first_page_size=20">
+<img src="https://img.shields.io/badge/KDE_Community-Part_Time_Developer-1D99F3?style=for-the-badge&logo=kde&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Qt%2FC++-41CD52?style=for-the-badge&logo=qt&logoColor=white" /><br/>
+  <b>Kate Editor</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/6_MRs-Merged-00d4aa?style=for-the-badge" /><br/>
+  <b>GitLab Reviews</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/400+-Lines_Shipped-6c3ce0?style=for-the-badge" /><br/>
+  <b>Production Code</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/600+-Lines_Reviewed-ff6e40?style=for-the-badge" /><br/>
+  <b>Code Review</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📱 Social Media Backend</h3>
-
-<a href="https://github.com/sahil-v001/Social_Media-Backend"><img src="https://img.shields.io/badge/source_code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-> Scalable RESTful API with async CRUD, JWT+OAuth2 auth, RBAC, Docker deployment, and full CI/CD
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,githubactions&perline=5" height="36" />
-
-<br/>
-
-**Highlights**
-- JWT + OAuth2 + password hashing + Pydantic validation
-- Full test suite with Pytest + FastAPI TestClient
-- Dockerized → Gunicorn + NGINX + Systemd
-- Automated CI/CD via GitHub Actions
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌿 Leaf Disease Detection</h3>
-
-<a href="https://github.com/sahil-v001/Leaf-Disease-Detection-System"><img src="https://img.shields.io/badge/source_code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-> Custom Swin Transformer + SSM achieving **99.5% accuracy** on 54K+ images with only **0.345M params**
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&perline=3" height="36" />
-
-<br/>
-
-**Highlights**
-- Research under **Prof. Mahua Bhattacharya** @ IIITM
-- Cut parameters by **50%** (0.70M → 0.345M) — same accuracy
-- Migrated TensorFlow baseline → PyTorch
-- 📄 Manuscript under preparation for publication
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3>🎓 AlumniConnect &nbsp;·&nbsp; <sub>🏆 Top 3 College Startup</sub></h3>
-
-<a href="https://alumni-connect-three-teal.vercel.app"><img src="https://img.shields.io/badge/live_demo-00d4aa?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/orgs/AlumniConnect-team/repositories"><img src="https://img.shields.io/badge/source_code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-> Full-stack alumni networking platform — mentorship, job referrals, real-time messaging — **50+ active users**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb&perline=6" height="36" />
-
-<br/>
-
-**Highlights** &nbsp;→&nbsp; JWT + RBAC auth &nbsp;·&nbsp; WebSocket real-time chat &nbsp;·&nbsp; Responsive TailwindCSS UI &nbsp;·&nbsp; Scalable REST APIs
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ==================== COMPETITIVE PROGRAMMING ==================== -->
+<!-- ═══════════════════════════════════════════ -->
+<!--              PROJECTS — VISUAL CARDS        -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-### `⚔️ competitive programming`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%94%AE+featured+projects" />
 
-<br/>
+<br/><br/>
 
+<!-- GitHub Pin Cards — Auto-generated visuals -->
+<a href="https://github.com/sahil-v001/Social_Media-Backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-v001&repo=Social_Media-Backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=6c3ce0&text_color=c9d1d9" width="47%" />
+</a>
+&nbsp;
+<a href="https://github.com/sahil-v001/Leaf-Disease-Detection-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahil-v001&repo=Leaf-Disease-Detection-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=6c3ce0&text_color=c9d1d9" width="47%" />
+</a>
+
+<br/><br/>
+
+<!-- Project Highlight Badges — Visual Impact -->
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Knight_(1867)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📱_Social_Media_Backend-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,githubactions&theme=dark" height="40" /><br/><br/>
+  <img src="https://img.shields.io/badge/RESTful_API-00d4aa?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT+OAuth2-6c3ce0?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-ff6e40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Codeforces-1102-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🌿_Leaf_Disease_Detection-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" height="40" /><br/><br/>
+  <img src="https://img.shields.io/badge/99.5%25_Accuracy-00d4aa?style=flat-square" />
+  <img src="https://img.shields.io/badge/0.345M_Params-6c3ce0?style=flat-square" />
+  <img src="https://img.shields.io/badge/54K+_Images-ff6e40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swin+SSM-EE4C2C?style=flat-square" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-600+-00d4aa?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🎓_AlumniConnect-0d1117?style=for-the-badge" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" height="40" /><br/><br/>
+  <img src="https://img.shields.io/badge/🏆_Top_3_Startup-00d4aa?style=flat-square" />
+  <img src="https://img.shields.io/badge/50+_Users-6c3ce0?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-ff6e40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square" />
 </td>
 </tr>
 </table>
 
 <br/>
 
+<a href="https://alumni-connect-three-teal.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_AlumniConnect_Live_Demo-00d4aa?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           GITHUB STATS — ALL VISUALS        -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%F0%9F%93%8A+github+stats" />
+
+<br/><br/>
+
+<!-- Stats + Streak Side-by-Side -->
+<img src="https://github-readme-stats.vercel.app/api?username=sahil-v001&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=6c3ce0&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=00d4aa" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-v001&hide_border=true&background=0d1117&ring=00d4aa&fire=ff6e40&currStreakLabel=00d4aa&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00000000" height="195" />
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-v001&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" height="250" />
+
+<br/><br/>
+
+<!-- ▸▸▸ ACTIVITY GRAPH — ANIMATED ▸▸▸ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-v001&bg_color=0d1117&color=00d4aa&line=6c3ce0&point=ffffff&area=true&area_color=6c3ce0&hide_border=true" width="97%" />
+
+<br/><br/>
+
+<!-- ▸▸▸ GITHUB TROPHIES ▸▸▸ -->
+<img src="https://github-profile-trophy.vercel.app/?username=sahil-v001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%" />
+
+</div>
+
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--       COMPETITIVE PROGRAMMING — VISUAL      -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=500&height=40&lines=%E2%9A%94%EF%B8%8F+competitive+programming" />
+
+<br/><br/>
+
+<!-- Big Visual Badges -->
+<img src="https://img.shields.io/badge/⚔️_KNIGHT-1867_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" height="45" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🧩_SOLVED-600+_Problems-00d4aa?style=for-the-badge&labelColor=1a1a2e" height="45" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📊_CODEFORCES-1102_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a2e" height="45" />
+
+<br/><br/>
+
+<!-- LeetCode Visual Card with Heatmap -->
 <a href="https://leetcode.com/u/sahilverma01/">
-  <img src="https://leetcard.jacoblin.cool/sahilverma01?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="70%" />
+  <img src="https://leetcard.jacoblin.cool/sahilverma01?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="65%" />
 </a>
 
 </div>
 
-<br/>
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-<div align="center">
-
-### `📈 analytics`
-
-<br/>
-
-<a href="https://github.com/sahil-v001">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil-v001&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa&hide_border=true" width="95%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sahil-v001">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-v001&layout=compact&hide_border=true&bg_color=00000000&title_color=00d4aa&text_color=c9d1d9&langs_count=8" width="45%" />
-</a>
-
-<br/><br/>
-
-<!-- Trophies -->
-<a href="https://github.com/sahil-v001">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahil-v001&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="85%" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ==================== SNAKE ==================== -->
+<!-- ═══════════════════════════════════════════ -->
+<!--              3D CONTRIBUTION GRAPH           -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=500&height=40&lines=%F0%9F%8C%86+3d+contribution+map" />
+
+<br/><br/>
+
+<!-- 3D Animated Contribution Calendar -->
+<!-- This requires the 3D contrib GitHub Action — instructions below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahil-v001/sahil-v001/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahil-v001/sahil-v001/main/profile-3d-contrib/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/sahil-v001/sahil-v001/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
 </picture>
 
 </div>
 
-<br/>
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- ==================== METRICS WORKFLOW ==================== -->
+<!-- ═══════════════════════════════════════════ -->
+<!--              SNAKE ANIMATION                -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-### `🤖 automated metrics`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=450&height=40&lines=%F0%9F%90%8D+contribution+snake" />
 
-> *Set up [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action to auto-generate a beautiful SVG infographic here!*
+<br/><br/>
 
-<!--
-  Add this to .github/workflows/metrics.yml:
-  
-  - uses: lowlighter/metrics@latest
-    with:
-      token: ${{ secrets.METRICS_TOKEN }}
-      filename: metrics.svg
-      base: header, activity, community, repositories
-      plugin_languages: yes
-      plugin_habits: yes
-      plugin_isocalendar: yes
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://github.com/sahil-v001/sahil-v001/blob/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           GITHUB METRICS SVG                -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C3CE0&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%A4%96+auto+metrics" />
+
+<br/><br/>
+
+<!-- lowlighter/metrics — auto-generated SVG -->
+<img src="https://raw.githubusercontent.com/sahil-v001/sahil-v001/main/metrics.svg" width="70%" />
 
 </div>
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ▸▸▸ ANIMATED DIVIDER ▸▸▸ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:00d4aa&height=150&section=footer" width="100%" />
+<!-- ═══════════════════════════════════════════ -->
+<!--              RANDOM DEV QUOTE               -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <sub>built with focus & late-night coffee ☕</sub>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              ANIMATED FOOTER                -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,30:1a1b27,60:6c3ce0,100:00d4aa&height=150&section=footer" width="100%" />
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&repeat=true&width=400&height=25&lines=⭐+star+my+repos+if+you+found+them+useful!" />
+  
 </div>
